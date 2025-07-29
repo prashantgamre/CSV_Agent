@@ -1,0 +1,8 @@
+product_name,category,quantity (Product before sales),stock_after_sales,sold_quantity,vendor_name
+Nike Air Max,Footwear,200,190,10,FootWorld
+Puma Running Shoes,Footwear,180,172,8,FootWorld
+Levi's Jeans,Clothing,150,143,7,StyleMart
+Adidas Hoodie,Clothing,120,114,6,StyleMart
+Apple iPhone 14,Electronics,100,92,5,BestElectronics
+HP Laptop,Electronics,80,76,4,TechBazaar
+"Samsung TV 55""",Electronics,50,48,2,BestElectronics
