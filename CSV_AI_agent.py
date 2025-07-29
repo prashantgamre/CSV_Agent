@@ -14,8 +14,8 @@ inventory = pd.read_csv("inventory_data.csv")
 # sales = pd.read_csv("Sales.csv")
 
 load_dotenv()
-api_key = st.secrets("ANTHROPIC_API_KEY")
-model = ChatAnthropic(api_key=api_key,model="claude-3-5-sonnet-20241022", temperature=0.5)
+st.secrets("ANTHROPIC_API_KEY")
+model = ChatAnthropic(api_key=st.secrets("ANTHROPIC_API_KEY"),model="claude-3-5-sonnet-20241022", temperature=0.5)
 
     
 
