@@ -8,3 +8,4 @@ regex
 langchain_anthropic
 streamlit
 langchain_community
+langchain_experimental
